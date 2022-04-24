@@ -1,0 +1,2 @@
+# FireSnatcher
+Payload For Bashbunny
